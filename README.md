@@ -18,7 +18,7 @@
 
 **Языки:**
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![SQL]
   - **CTE (`WITH`)** — для подготовки выборок и разбиения логики на шаги
   - **Агрегатные функции** — `AVG`, `MIN`, `MAX`, `COUNT`, `SUM`, `ROUND`
   - **Оконные функции** — `OVER(PARTITION BY ...)`, `ROLLUP`, кумулятивные суммы
